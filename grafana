@@ -1,0 +1,2 @@
+FROM index.docker.io/sourcegraph/grafana:5.10.0@sha256:91a911a1682b53b025394b1096f6b7c0108554520dd549168a9d6281b810f417
+MAINTAINER jiangbowen
